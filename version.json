@@ -1,6 +1,6 @@
 {
-  "version": "11.0.4",
+  "version": "11.0.5",
   "force": false,
   "apk_url": "https://raw.githubusercontent.com/girtechsoftware/forestfield-update/refs/heads/main/ForestField.apk",
-  "message": "V 11.0.4\n= New Design in Some pages and Dialogs.\n= Lohit Gujarati font support in exported PDF file.\n= Add Farmer Details in Tree Module.\n= Some bug Fixed."
+  "message": "V 11.0.5\n= New Design in Some pages and Dialogs.\n= Lohit Gujarati font support in exported PDF file.\n= Add Farmer Details in Tree Module.\n= Some bug Fixed."
 }
