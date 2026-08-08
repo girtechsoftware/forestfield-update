@@ -1,6 +1,6 @@
 {
-  "version": "18.0.3",
+  "version": "18.0.4",
   "force": false,
   "apk_url": "https://raw.githubusercontent.com/girtechsoftware/forestfield-update/refs/heads/main/ForestField.apk",
-  "message": "\n\n=V 18.0.3\n\n= મેનુ ડિઝાઇન બદલવામા આવી. \n= વન્યપ્રાણી પ્રોફાઇલ ઉમેરવામા આવી. \n=વન્યપ્રાણી અવલોકન અને રેસ્ક્યુ ફોર્મમાં સુધારા કરવામા આવ્યા.\n= Some bug Fixed."
+  "message": "\n\n=V 18.0.4\n\n \n=મારણ મોડ્યુલ,વન્યપ્રાણી અવલોકન અને રેસ્ક્યુ ફોર્મમાં ડેટા શોર્ટીંગ માટે સુધારા કરવામા આવ્યા.\n= Some bug Fixed."
 }
